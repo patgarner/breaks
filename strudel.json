@@ -1,5 +1,5 @@
 {
-  "_base": "https://github.com/patgarner/breaks/main",
+  "_base": "https://github.com/patgarner/breaks/main/",
   "b1": "break1.wav",
   "b2": "break2.wav",
   "b3": "break3.wav",
@@ -11,5 +11,6 @@
   "b9": "break9.wav",
   "b10": "break10.wav"
 }
+
 
 
