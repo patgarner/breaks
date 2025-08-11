@@ -1,5 +1,14 @@
 {
-"_base": "https://github.com/byolim/breaks",
-"breaks": ["break1.wav","break2.wav","break3.wav","break4.wav","break5.wav","break6.wav","break7.wav","break8.wav","break9.wav","break10.wav"]
-
+  "_base": "https://github.com/patgarner/breaks",
+  "b1": "break1.wav",
+  "b2": "break2.wav",
+  "b3": "break3.wav",
+  "b4": "break4.wav",
+  "b5": "break5.wav",
+  "b6": "break6.wav",
+  "b7": "break7.wav",
+  "b8": "break8.wav",
+  "b9": "break9.wav",
+  "b10": "break10.wav"
 }
+
